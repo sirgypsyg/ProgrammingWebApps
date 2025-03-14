@@ -4,8 +4,8 @@ import socket
 import sys
 from time import gmtime, strftime
 
-HOST = '0.0.0.0'
-PORT = 2908
+HOST = '127.0.0.1'
+PORT = 2909
 MAX_PACKET_LENGTH = 20
 
 def recvall(sock, msgLen):
