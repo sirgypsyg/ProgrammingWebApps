@@ -1,0 +1,12 @@
+2025-04-15 19:47:07 - Server started on 127.0.0.1:12345 | Number to guess: 81
+2025-04-15 19:47:11 - New connection from 127.0.0.1:54946
+2025-04-15 19:47:13 - Received from 127.0.0.1:54946: 80
+2025-04-15 19:47:16 - Received from 127.0.0.1:54946: 88
+2025-04-15 19:47:20 - Received from 127.0.0.1:54946: 81
+2025-04-15 19:47:20 - Client guessed the number correctly: 81
+2025-04-15 19:55:43 - Server started on 127.0.0.1:12345 | Number to guess: 38
+2025-04-15 19:55:45 - New connection from 127.0.0.1:55071
+2025-04-15 19:55:46 - Received from 127.0.0.1:55071: 40
+2025-04-15 19:55:47 - Received from 127.0.0.1:55071: 4
+2025-04-15 19:55:49 - Received from 127.0.0.1:55071: 38
+2025-04-15 19:55:49 - Client guessed the number correctly: 38

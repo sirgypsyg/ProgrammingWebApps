@@ -1,0 +1,28 @@
+2025-04-15 19:33:11 - New connection from 127.0.0.1:54905
+2025-04-15 19:33:14 - Received message from 127.0.0.1:54905: wiadom
+2025-04-15 19:33:14 - Echoed message to 127.0.0.1:54905
+2025-04-15 19:33:18 - Received message from 127.0.0.1:54905: tyle
+2025-04-15 19:33:18 - Echoed message to 127.0.0.1:54905
+2025-04-15 19:53:20 - Server started on 127.0.0.1:12345
+2025-04-15 19:53:22 - New connection from 127.0.0.1:55007
+2025-04-15 19:53:26 - Received message from 127.0.0.1:55007: witam
+2025-04-15 19:53:26 - Echoed message to 127.0.0.1:55007
+2025-04-15 19:53:27 - Received message from 127.0.0.1:55007: elo
+2025-04-15 19:53:27 - Echoed message to 127.0.0.1:55007
+2025-04-15 19:53:29 - Received message from 127.0.0.1:55007: ga
+2025-04-15 19:53:29 - Echoed message to 127.0.0.1:55007
+2025-04-15 19:53:30 - Received message from 127.0.0.1:55007: dad
+2025-04-15 19:53:30 - Echoed message to 127.0.0.1:55007
+2025-04-15 19:53:57 - Connection closed with 127.0.0.1:55007
+2025-04-15 19:54:37 - New connection from 127.0.0.1:55032
+2025-04-15 19:54:37 - Received message from 127.0.0.1:55032: asfaf sf asfasf!
+2025-04-15 19:54:37 - Echoed message to 127.0.0.1:55032
+2025-04-15 19:54:37 - Connection closed with 127.0.0.1:55032
+2025-04-15 19:54:43 - New connection from 127.0.0.1:55040
+2025-04-15 19:54:43 - Received message from 127.0.0.1:55040: asfaf sf asfasf!
+2025-04-15 19:54:43 - Echoed message to 127.0.0.1:55040
+2025-04-15 19:54:43 - Connection closed with 127.0.0.1:55040
+2025-04-15 19:54:52 - New connection from 127.0.0.1:55049
+2025-04-15 19:54:52 - Received message from 127.0.0.1:55049: adadadada sf asfasf!
+2025-04-15 19:54:52 - Echoed message to 127.0.0.1:55049
+2025-04-15 19:54:52 - Connection closed with 127.0.0.1:55049
